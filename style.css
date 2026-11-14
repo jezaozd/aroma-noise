@@ -58,7 +58,7 @@ figure{margin:0}
 .lb-rows div{display:grid;grid-template-columns:7.5em minmax(0,1fr);gap:10px;padding:7px 0;border-bottom:1px dotted var(--paper-ink-2)}
 .lb-rows dt{font:italic 400 14px/1.4 var(--serif);color:var(--paper-ink-2)}
 .lb-rows dd{margin:0;font:400 14px/1.4 var(--sans)}
-.lb-bot{margin-top:12px;font:700 11px/1 var(--serif);letter-spacing:.3em;text-transform:uppercase;color:var(--paper-ink-2)}
+.lb-bot{margin-top:12px;font:700 12px/1 var(--serif);letter-spacing:.3em;text-transform:uppercase;color:var(--paper-ink-2)}
 .inked .lb-rows dd,.inked .lb-name{animation:ink .7s var(--ease)}
 @keyframes ink{0%{opacity:.15;filter:blur(2px)}100%{opacity:1;filter:none}}
 
